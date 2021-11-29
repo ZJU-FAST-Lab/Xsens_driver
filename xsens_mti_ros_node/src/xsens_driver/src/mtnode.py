@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 import roslib; roslib.load_manifest('xsens_driver')
 import rospy
 import select
@@ -390,5 +390,4 @@ def main():
 
 if __name__== '__main__':
 	main()
-
 
