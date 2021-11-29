@@ -241,4 +241,3 @@ class MTException(Exception):
 		self.message = message
 	def __str__(self):
 		return "MT error: " + self.message
-
