@@ -1,8 +1,5 @@
 # Changelog for package xsens_mti_ros_node
 
-## 4.0.3 (2021-11-29)
-* Updated driver package for Python3 in ros-noetic
-
 ## 4.0.2 (2018-07-31)
 * Updated gps package required in prerequisites section of README
 
